@@ -1,0 +1,2 @@
+Contendrá una serie de enlaces a libros open source.
+Este repositorio contendrá enlaces de todos los libros accesibles para el bien de la humanidad
